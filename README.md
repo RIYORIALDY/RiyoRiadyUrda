@@ -27,7 +27,7 @@
 ## Live Preview
 
 Check out the live preview of the portfolio website here:  
-[**Live Demo**](/)
+[**Live Demo**](https://riyo-riady-urda.vercel.app/)
 
 ---
 
