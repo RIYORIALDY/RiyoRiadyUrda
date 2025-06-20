@@ -55,27 +55,27 @@ const ExperienceSection = () => {
   const experiences = [
     {
       icon: Network,
-      title: "WordPress Developer",
-      company: "Fiverr",
-      period: "2019 - 2020",
+      title: "Crew Of Store",
+      company: "PT. Sumber Alfaria Trijaya, Tbk (Alfamart)",
+      period: "2018 - 2019",
       description:
-        "Worked on developing and customizing WordPress websites for clients globally.",
+        "Perform calculations in the form of cashiers and provide services to customers",
     },
     {
       icon: Layers,
-      title: "Junior Frontend Developer",
-      company: "Sera Programmer",
-      period: "2021 - 2023",
+      title: "Material Handler",
+      company: "PT. Flextronics Technology Indonesia",
+      period: "2019 - 2024",
       description:
-        "Assisted in building and optimizing user interfaces with a focus on responsive and interactive designs.",
+        "as Data Entry, who manages all the components that go into hand stock.",
     },
     {
       icon: Code2,
-      title: "JavaScript Developer",
-      company: "OlovJS (Sera Programmer)",
-      period: "2023 - Present",
+      title: "Material Handler",
+      company: "PT. Osi Electronics",
+      period: "2024 - Present",
       description:
-        "Contributed to developing JavaScript libraries and enhancing framework functionalities.",
+        "Contribute to the development of Receving and Logistics.",
     },
   ];
 

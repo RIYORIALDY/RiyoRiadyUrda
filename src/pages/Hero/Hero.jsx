@@ -42,16 +42,16 @@ const GridBackground = () => {
 
 export default function Hero() {
   const words = [
-    "Full-Stack Developer & UI/UX Enthusiast",
-    "JavaScript Developer & Creator of Olova.js",
-    "Learning MARN Stack",
-    "Linux & GitHub for DevOps Enthusiast",
+    "Student Of Cakrawala University",
+    "Data Science Enthusiast & UI/UX Enthusiast",
+    "Cryptocurrency Enthusiast",
+    "Artificial Intelligence Enthusiast",
   ];
 
   const [code] = useState(`
 const profile = {
-    name: 'Nazmul Hossain',
-    title: 'Full-Stack Developer | Cloud Enthusiast | Problem Solver',
+    name: 'Riyo Rialdy Urda',
+    title: 'Data Science Enthusiast | Problem Solver | Cryptocurrency Enthusiast',
     skills: [
         'React', 'NextJS', 'Redux', 'Express',
         'MySQL', 'MongoDB', 'Docker', 'AWS', 'TypeScript',
@@ -65,8 +65,8 @@ const profile = {
         return (
             this.hardWorker &&
             this.problemSolver &&
-            this.skills.length >= 5 &&
-            this.yearsOfExperience >= 3
+            this.skills.length >= &&
+            this.yearsOfExperience >= &&
         );
     }
 };
@@ -190,7 +190,7 @@ const profile = {
                     I&apos;m
                     <span className="typing-effect gradient-text">
                       {" "}
-                      Nazmul Hossain
+                      Riyo Rialdy Urda
                     </span>
                   </span>
                 </h1>
@@ -211,8 +211,7 @@ const profile = {
               {/* Description */}
               <div className="relative mb-8 sm:mb-12 max-w-xl">
                 <p className="text-base sm:text-xl text-gray-300/90 leading-relaxed">
-                  JavaScript lover 🚀 | OlovaJS creator 🔧 | Crafting frameworks
-                  and coding the future 💻✨
+                  Data Science Enthusiast 🔧 | Cakrawala University Students 🚀 | Coding The Future 💻✨
                 </p>
               </div>
 
@@ -220,7 +219,7 @@ const profile = {
               <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 animate__animated animate__fadeInUp animate__delay-2s">
                 {/* View Projects Button */}
                 <a
-                  href="https://github.com/seraprogrammer"
+                  href="https://github.com/RIYORIALDY"
                   className="group relative inline-flex items-center justify-center gap-3 bg-gradient-to-r from-blue-500 to-teal-400 p-0.5 rounded-xl transition-all duration-300 hover:scale-105 hover:shadow-[0_0_2rem_-0.5rem_#60A5FA]"
                 >
                   <span className="block w-full px-6 sm:px-8 py-3 sm:py-4 rounded-[11px] bg-gray-900 transition-all duration-300 group-hover:bg-gradient-to-r group-hover:from-blue-500 group-hover:to-teal-400">

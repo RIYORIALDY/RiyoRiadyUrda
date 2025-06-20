@@ -15,24 +15,24 @@ const EducationSection = () => {
 
   const educationData = [
     {
-      degree: "Secondary School Certificate (SSC)",
-      school: "Natore Textile Institute",
+      degree: "Senior High School (SMA)",
+      school: "SMA Negeri 16 Batam",
       mascot: "📘",
-      year: "2019-2021",
-      achievements: ["GPA: 4.89", "Subject: Science"],
-      skills: ["Mathematics", "Physics", "Chemistry", "Biology"],
+      year: "2015-2017",
+      achievements: ["GPA: 3.76", "Subject: Social Science"],
+      skills: ["Geografi", "Sosiologi", "Ekonomi", "History (Sejarah)"],
       description:
-        "Focused on core science subjects with emphasis on practical laboratory work and scientific research methodologies.",
+        "Focuses on core social science subjects with an emphasis on analytical work and scientific research methodology.",
     },
     {
-      degree: "Higher Secondary Certificate (HSC)",
-      school: "Dottopara Model Degree College",
+      degree: "Bachelor of Data Science (S.Si.D.)",
+      school: "Cakrawala University",
       mascot: "📗",
-      year: "2021-2023",
-      achievements: ["GPA: 4.25", "Subject: Arts"],
-      skills: ["Literature", "Social Studies", "Economics", "History"],
+      year: "2024-2028",
+      achievements: ["GPA: 3.94", "Subject: Data Science"],
+      skills: ["Web Client Development", "Data Wrangling", "Database Systems", "Statistical Thinking"],
       description:
-        "Developed strong analytical and critical thinking skills through comprehensive study of humanities and social sciences.",
+        "Develop strong analytical and critical thinking skills through comprehensive studies in data and digitalization.",
     },
   ];
 
