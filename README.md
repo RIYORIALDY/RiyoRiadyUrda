@@ -83,5 +83,5 @@ Let's build something amazing together 🌐💬
 
 ---
 
-<div align="center"> Made with ❤️ by **Riyo Rialdy Urda** </div>
+<div align="center"> Made with ❤️ by Nazmul Hossain </div>
 
